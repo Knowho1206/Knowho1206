@@ -1,16 +1,63 @@
-## Hi there 👋
+# Knowho's Profile
 
-<!--
-**Knowho1206/Knowho1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 저는 **강노율**입니다.  
+React와 Bootstrap을 기반으로 다양한 프로젝트를 개발하며, 사용자 친화적이고 직관적인 UI/UX를 구현하기 위해 노력하고 있는 개발자입니다. 
 
-Here are some ideas to get you started:
+현재 **신성고등학교 프론 동아리**에 소속되어 있으며, 다양한 프로젝트와 도전을 통해 제 역량을 넓혀가고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 기술 스택
+
+제가 주로 사용하는 기술 스택은 다음과 같습니다:
+
+- **Frontend**:  
+  - React.js  
+  - Bootstrap  
+  - HTML5  
+  - CSS3  
+  - JavaScript  
+
+- **기타 도구**:  
+  - Node.js  
+  - Git & GitHub  
+
+---
+
+## 🎯 주요 프로젝트
+
+제가 진행했던 주요 프로젝트는 아래와 같습니다:
+
+### 1. **챗봇 프로젝트**
+- **설명**: 자연어 처리를 활용한 사용자 친화적인 챗봇 개발.
+- **기능**:
+  - 사용자 질문 분석 및 자동 응답 제공.
+  - 24/7 서비스를 제공하기 위한 높은 가용성 설계.
+  
+### 2. **번역기 애플리케이션**
+- **설명**: 다국어 번역 기능을 지원하는 웹 애플리케이션.
+- **기능**:
+  - 입력된 텍스트를 다양한 언어로 실시간 번역.
+  - 사용자 친화적인 UI 및 모바일에서도 최적화된 반응형 디자인 구현.
+
+### 3. **MBTI 테스트 프로그램**
+- **설명**: 사용자 MBTI를 분석하고 그 결과를 시각적으로 표시하는 애플리케이션.
+- **기능**:
+  - 사용자가 간단한 설문을 통해 결과를 얻을 수 있음.
+  - 각 MBTI 유형별 상세 설명 제공.  
+
+> **더 많은 프로젝트**는 [제 프로젝트 페이지](https://github.com/knowho1206.github.io)에서 확인하실 수 있습니다.
+
+---
+
+## 📧 연락처
+
+궁금하신 점이 있으시면 언제든지 저에게 연락해주세요! 😊
+
+- **이메일**: [your.email@example.com](mailto:yuntanx495@gmail.com)  
+- **GitHub**: [github.com/yourprofile](https://github.com/knowho1206)  
+
+---
+
+이 페이지를 통해 저를 조금 더 알아가셨으면 좋겠습니다.  
+앞으로도 더 많은 도전을 통해 성장하는 개발자가 되겠습니다! 감사합니다. 🙏
