@@ -38,7 +38,7 @@
   <a href="https://github.com/Knowho1206">
     <img src="https://streak-stats.demolab.com?user=knowho1206&theme=dark&border_radius=15&card_width=1000" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knowho1206&layout=compact&bg_color=00000000" alt="Top Langs" />
-    <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=knowho1206&show_icons=true&bg_color=00000000" alt="Stats" />
+    <img style="height:165px" src="https://github-readme-stats.vercel.app/api?username=knowho1206&show_icons=true&bg_color=00000000" alt="Stats" />
   </a>
 </div>
 
@@ -50,7 +50,7 @@
 
 ## 🎯 주요 프로젝트
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=knowho1206&repo=knowho1206.github.io)](https://github.com/knowho1206/knowho1206.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=knowho1206&repo=knowho1206.github.io&theme=dark)](https://github.com/knowho1206/knowho1206.github.io)
 
 
 ---
